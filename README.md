@@ -1,3 +1,5 @@
+# EWU Lost & Found Portal
+
 ## Project Overview
 A modern web application for East West University's Lost & Found system.
 
